@@ -47,7 +47,10 @@ This project is built to demonstrate modern **Android development practices** wi
 
 | Search & Select            | Bottom Sheet Info           | Route & Tracking           |
 |----------------------------|------------------------------|-----------------------------|
-| ![](screens/search.png)    | ![](screens/info.png)        | ![](screens/route.png)      |
+| <img width="1344" height="1302" alt="Screenshot_20250725-081851" src="https://github.com/user-attachments/assets/80c35004-88d4-4072-a91a-f270c2063b09" />
+   | <img width="604" height="262" alt="image" src="https://github.com/user-attachments/assets/827817e8-95f0-4340-9faa-1b42449ade57" />
+       | <img width="1344" height="1293" alt="Screenshot_20250725-082029" src="https://github.com/user-attachments/assets/d552641c-efc4-4716-8a8f-f8b0943cf6c5" />
+    |
 
 ---
 
@@ -82,3 +85,4 @@ This project is built to demonstrate modern **Android development practices** wi
 ### 1. Clone the repository
 ```bash
 git clone https://github.com/yourusername/findway.git
+Video demo: https://drive.google.com/file/d/1DmuJWQQ_XSZkPHA23dDJnx6wL5FVdcx5/view?usp=sharing
